@@ -32,7 +32,7 @@ namespace AB102_Console_App
                 }
 
 
-            } while ();
+            } while (true);
         }
 
 
